@@ -45,6 +45,5 @@ bin
 cache
 gems
 specifications
-Gemfile.lock
 .rvmrc
 spec/reports
